@@ -21,7 +21,7 @@ Los datos usados en la experimentación corresponden a los datasets Twittter 15 
     ['972651', '80080680482123777', '0.0']->['189397006', '80080680482123777', '1.8']
     ```
 
-El contenido de los tweets y usuarios no está disponible por políticas de Twitter por lo que deben ser descargados utilizando su API. Para mayor información de los archivos del dataset, consultar el README asociado.
+El contenido de los tweets y usuarios no está disponible por políticas de Twitter por lo que deben ser descargados utilizando su API. Para mayor información de los archivos del dataset, consultar el README asociado en el archivo zip.
 
 ## Modelo de detección
 
